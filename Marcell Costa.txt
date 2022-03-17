@@ -1,0 +1,27 @@
+Olá tudo bem?! Meu nome é Marcell Costa, sou programador e fico muito feliz de criar essa assistente virtual.
+
+A maioria dos conhecimentos usados assim como modulos, foram tirados das canais Paradoxo e CódigoLogo.
+
+= Primeira versão 'Cel' 1.0 (inicio de um sonho)
+Objetivos:
+    1-Implanta uma função que faz  a AV ( Assistente Virtual ) fala o que está escrito.  => pyttsx3 *
+    2-Implanta uma função que faz  a AV reconhece a voz dita. => speech_recognition *
+    3-Abrir programas. *
+    4-Procura uma resposta em um arquivo txt. *
+    5-Criar uma função que indentifica se o usuário falou uma conta, e resolve a conta.*
+    6-Criar uma função que indentifica se o usuário quer calcular uma área de figura e traz o resultado.*
+    7-Criar uma função que reconhece que o usuário quer que jogue um dado eleatorio e realiza a ação. *
+    8-Criar uma função que reconhece se o usuário quer calcular o perimetro de uma figura e traz o resultado. *
+    9-Organizar o programa principal. *
+
+
+= Segunda versão 'Cel' 2.0 (Aurora)
+Objetivos:
+    1-Fazer pesquisas e trazer resultados. *
+
+
+
+
+
+
+
